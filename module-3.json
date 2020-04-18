@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Undergraduate",
+    "Course": "Web Design and Developmemt",
+    "Module": {
+      "Learning_outcome": ["LO1", "LO2"],
+      "Assignment": ["CW1", "CW2"],
+      "Volume": ["1500 words", "4500 words"],
+      "Weighting": ["25%", "75%"]
+    }
+  },
+  {
+    "Name": "Postgraduate",
+    "Course": "Artificial Intelligence (AI)",
+    "Module": {
+      "Learning_outcome": ["LO1", "LO2"],
+      "Assignment": ["CW1", "CW2"],
+      "Volume": ["2000 words", "5500 words"],
+      "Weighting": ["15%", "85%"]
+    }
+  },
+  {
+    "Name": "Masters",
+    "Course": "Computer Security",
+    "Module": {
+      "Learning_outcome": ["LO1", "LO2"],
+      "Assignment": ["CW1", "CW2"],
+      "Volume": ["3000 words", "8000 words"],
+      "Weighting": ["20%", "80%"]
+    }
+  }
+]
